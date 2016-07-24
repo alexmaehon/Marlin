@@ -1,6 +1,8 @@
 # Marlin 3D Printer Firmware
-<img align="top" width=175 src="Documentation/Logo/Marlin%20Logo%20GitHub.png" />
- Additional documentation can be found in [The Marlin Wiki](https://github.com/MarlinFirmware/Marlin/wiki).
+
+[![Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg?branch=devel-ubl)](https://travis-ci.org/MarlinFirmware/Marlin)
+
+<img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
 ## UBL (Unified Bed Leveling) Development Branch -- Marlin 1.1.0-RC6 - 4 July 2016
 
@@ -38,7 +40,7 @@ Please test this firmware and inform us if it misbehaves in any way. Volunteers 
 The current Marlin UBL team consists of:
 
  - Scott Lahteine [@thinkyhead] - English
- - Joao Brazio [@jbrazio] - Portuguese
+ - João Brázio [@jbrazio] - Portuguese
  - Roxanne Neufeld [@Roxy-3D] - English
 
 ## License
